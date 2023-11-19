@@ -1,0 +1,7 @@
+This project was temporary deployed on a localhost server.All cars data are supposed to be posted and retreived to/from a database which will be done
+after midterm exams.For presentation idea is used e precreated JSON file with 5 object to demonstrate the idea.If this project is not deployed on a host
+together with json file webpage may not work correctly.It is supposed for json data to be displayed like in screenshots: "sc1" and "sc2".
+This is simply the front end idea of our project.The only front-end aspect that we were not able to demonstrate is the part where a buying contract
+is realized.After we develop the neccessary back-end tools it will be ready for final exams.
+
+The localhost we used is Apache24.
